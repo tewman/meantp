@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/traviswinks/Sites/meantp/app/views/partials/main.html</file>
+            <file>file:/Users/traviswinks/Sites/meantp/app/views/partials/navbar.html</file>
+            <file>file:/Users/traviswinks/Sites/meantp/lib/controllers/index.js</file>
+            <file>file:/Users/traviswinks/Sites/meantp/lib/controllers/api.js</file>
+            <file>file:/Users/traviswinks/Sites/meantp/server.js</file>
+            <file>file:/Users/traviswinks/Sites/meantp/lib/config/config.js</file>
+            <file>file:/Users/traviswinks/Sites/meantp/app/bower_components/bootstrap/dist/js/bootstrap.js</file>
+            <file>file:/Users/traviswinks/Sites/meantp/app/views/index.html</file>
+            <file>file:/Users/traviswinks/Sites/meantp/lib/routes.js</file>
+            <file>file:/Users/traviswinks/Sites/meantp/lib/config/env/development.js</file>
+            <file>file:/Users/traviswinks/Sites/meantp/lib/models/thing.js</file>
+            <file>file:/Users/traviswinks/Sites/meantp/app/styles/main.css</file>
+        </group>
+    </open-files>
+</project-private>
